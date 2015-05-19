@@ -79,8 +79,3 @@ h2{
 #results{
     padding: 7.5em; 
 }
-@media screen (width = 500px){
-	img{
-		height: 20px;
-	}
-}
